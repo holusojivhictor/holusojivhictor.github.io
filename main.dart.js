@@ -72509,7 +72509,7 @@ l=q.b
 n=t.u6
 l=A.VT(A.b([A.as7("Victor, a front-end developer.",B.nz,l==null?r:l.dG(B.k,24))],n),!1,new A.ady())
 s=t.p
-return A.k8(A.d1(B.S,A.b([A.bV(A.b([A.d1(B.S,A.b([o,A.bs(r,A.ck(A.b([A.bV(A.b([new A.f9(new A.aq(0,p*0.7,0,1/0),l,r),B.M0,new A.f9(new A.aq(0,p*0.8,0,1/0),A.VT(A.b([A.arA(u.x,!1,m==null?r:m.AM(1.5))],n),!1,new A.adz()),r),B.bi,A.ck(A.b([A.Y_("Contact Me",44,new A.adA(),k,80)],s),B.B,B.v,B.u)],s),B.a7,B.v,B.c7)],s),B.B,B.v,B.c7),B.o,r,r,r,r,r,r,new A.aD(0,j*0.3,0,0),B.ha,r,r,r)],s),B.U),B.dW,new A.eQ(B.eq,A.bV(A.aj2(b,$.Vb(),!1,!1,!1,p),B.B,B.v,B.u),r)],s),B.a7,B.v,B.u)],s),B.U),r,r)}}
+return A.k8(A.d1(B.S,A.b([A.bV(A.b([A.d1(B.S,A.b([o,A.bs(r,A.ck(A.b([A.bV(A.b([new A.f9(new A.aq(0,p*0.7,0,1/0),l,r),B.M1,new A.f9(new A.aq(0,p*0.8,0,1/0),A.VT(A.b([A.arA(u.x,!1,m==null?r:m.AM(1.5))],n),!1,new A.adz()),r),B.bi,A.ck(A.b([A.Y_("Contact Me",44,new A.adA(),k,80)],s),B.B,B.v,B.u)],s),B.a7,B.v,B.c7)],s),B.B,B.v,B.c7),B.o,r,r,r,r,r,r,new A.aD(0,j*0.3,0,0),B.ha,r,r,r)],s),B.U),B.dW,new A.eQ(B.eq,A.bV(A.aj2(b,$.Vb(),!1,!1,!1,p),B.B,B.v,B.u),r)],s),B.a7,B.v,B.u)],s),B.U),r,r)}}
 A.adB.prototype={
 $0(){var s,r="_controller",q=this.a
 if(A.a(A.a(q.d,r).Q,"_status")===B.N){s=A.a(q.d,r)
@@ -72547,7 +72547,8 @@ s.cK()
 s=s.bF$
 s.b=!0
 s.a.push(new A.adG(r))},
-l(a){this.VG(0)},
+l(a){A.a(this.d,"_controller").l(0)
+this.VG(0)},
 I(a0,a1){var s,r,q,p=null,o=A.ay(a1).R8,n=A.bT(a1,28,64,42,p),m=A.bT(a1,14,16,p,p),l=A.bT(a1,14,16,p,p),k=a1.U(t.w).f.a.a,j=o.y,i=j==null,h=i?p:j.dG(A.az(163,255,255,255),m),g=o.w,f=g==null?p:g.dG(B.k,l),e=A.bT(a1,80,150,p,p),d=A.bT(a1,44,52,50,p),c=k*0.3,b=c*1.5,a=A.aj2(a1,$.Vb(),!0,!0,!0,k*0.4)
 g=t.p
 s=A.bs(p,A.d1(B.S,A.b([A.is(p,A.am5(b/1.35,"assets/svgs/header-image.svg","Header Image",c),p,p,p,0,p,p)],g),B.U),B.o,p,p,p,p,b,p,p,B.DM,p,p,p)
@@ -72556,7 +72557,7 @@ j=A.bs(p,A.a6S("Hi, I'm",i?p:j.jm(B.aQ)),B.o,p,p,p,p,p,p,new A.aD(r,b*0.15,0,0),
 q=o.b
 i=t.u6
 q=A.VT(A.b([A.as7("Victor, a front-end developer.",B.nz,q==null?p:q.dG(B.k,n))],i),!1,new A.adC())
-return A.k8(A.d1(B.S,A.b([s,A.bV(A.b([A.d1(B.S,A.b([j,A.bs(p,A.ck(A.b([A.bV(A.b([new A.f9(new A.aq(0,k*0.2,0,1/0),q,p),B.M1,new A.f9(new A.aq(0,c,0,1/0),A.VT(A.b([A.arA(u.x,!1,h==null?p:h.AM(1.5))],i),!1,new A.adD()),p),B.dW,A.ck(A.b([A.Y_("Contact Me",d,new A.adE(),f,e)],g),B.B,B.v,B.u)],g),B.a7,B.v,B.c7)],g),B.B,B.v,B.c7),B.o,p,p,p,p,p,p,new A.aD(r,b*0.25,0,0),p,p,p,p)],g),B.U),B.LZ,A.bs(p,A.hv(new A.adF(c,k,a),B.bB),B.o,p,p,p,p,p,p,new A.aD(r,0,0,0),p,p,p,p)],g),B.a7,B.v,B.u)],g),B.U),p,p)}}
+return A.k8(A.d1(B.S,A.b([s,A.bV(A.b([A.d1(B.S,A.b([j,A.bs(p,A.ck(A.b([A.bV(A.b([new A.f9(new A.aq(0,k*0.2,0,1/0),q,p),B.M2,new A.f9(new A.aq(0,c,0,1/0),A.VT(A.b([A.arA(u.x,!1,h==null?p:h.AM(1.5))],i),!1,new A.adD()),p),B.dW,A.ck(A.b([A.Y_("Contact Me",d,new A.adE(),f,e)],g),B.B,B.v,B.u)],g),B.a7,B.v,B.c7)],g),B.B,B.v,B.c7),B.o,p,p,p,p,p,p,new A.aD(r,b*0.25,0,0),p,p,p,p)],g),B.U),B.M_,A.bs(p,A.hv(new A.adF(c,k,a),B.bB),B.o,p,p,p,p,p,p,new A.aD(r,0,0,0),p,p,p,p)],g),B.a7,B.v,B.u)],g),B.U),p,p)}}
 A.adG.prototype={
 $0(){var s,r="_controller",q=this.a
 if(A.a(A.a(q.d,r).Q,"_status")===B.N){s=A.a(q.d,r)
@@ -72702,7 +72703,7 @@ r=A.ay(a6)
 q=a6.U(t.w).f.a.b
 p=q*0.1
 a4=q*0.8
-o=A.bT(a6,q*0.6,q*0.7,a4,a2)
+o=A.bT(a6,q*0.65,q*0.7,a4,a2)
 n=A.bT(a6,24,A.ln(a6)*1.7,A.ln(a6)*1.7,a2)
 m=q*1.3
 l=A.bT(a6,m,a4,m,a2)
@@ -72898,7 +72899,7 @@ h=A.a(e.e,"_containerController")
 h=e.aaD(i,A.a(e.z,b),h)
 i=A.bs(d,d,B.o,A.a(e.z,b),d,d,d,2,d,d,d,d,d,o)
 g=e.ax?0:o
-f=A.d1(B.S,A.b([l,k,A.cm(A.nz(A.bV(A.b([j,B.M_,A.ck(A.b([m,h,A.cm(A.d1(B.S,A.b([i,A.is(d,A.FJ(B.db,B.ae,B.aG,2,new A.aex(),g),d,d,d,0,d,d)],f),B.U),d,o)],f),B.B,B.v,B.u)],f),B.a7,B.ud,B.u),d,d),d,s.a.a)],f),B.U)
+f=A.d1(B.S,A.b([l,k,A.cm(A.nz(A.bV(A.b([j,B.M0,A.ck(A.b([m,h,A.cm(A.d1(B.S,A.b([i,A.is(d,A.FJ(B.db,B.ae,B.aG,2,new A.aex(),g),d,d,d,0,d,d)],f),B.U),d,o)],f),B.B,B.v,B.u)],f),B.a7,B.ud,B.u),d,d),d,s.a.a)],f),B.U)
 s=f}return s},
 aaD(a,b,c){return A.f5(c,new A.aey(a,b),null)}}
 A.aeC.prototype={
@@ -73128,7 +73129,7 @@ $1(a){if(a.gjS()*100>40)A.a(this.a.d,"_scaleController").b9(0)},
 $S:23}
 A.afJ.prototype={
 $2(a,b){var s,r,q=this,p=b.c.a,o=q.a,n=t.p
-if(p<=1024)return A.bV(A.b([A.hv(new A.afG(o),null),B.M2,A.hv(new A.afH(o,q.b),null)],n),B.B,B.v,B.u)
+if(p<=1024)return A.bV(A.b([A.hv(new A.afG(o),null),B.LY,A.hv(new A.afH(o,q.b),null)],n),B.B,B.v,B.u)
 else{s=q.c
 r=q.d
 return A.ck(A.b([A.k8(A.ck(A.b([A.nM(A.bV(A.b([B.lu,o.xG()],n),B.B,B.v,B.u),1)],n),B.B,B.v,B.u),s,r),A.k8(o.xF(s,r),null,p*0.4)],n),B.a7,B.ue,B.u)}},
@@ -73139,9 +73140,9 @@ if(b.c.a<600)return s.xG()
 else return s.xG()},
 $S:18}
 A.afH.prototype={
-$2(a,b){var s=b.c.a,r=this.a,q=this.b
-if(s<600)return r.xF(q*0.5,s)
-else return A.nz(r.xF(q*0.75,s*0.75),null,null)},
+$2(a,b){var s=b.c.a,r=this.a,q=this.b*0.75
+if(s<600)return r.xF(q,s)
+else return A.nz(r.xF(q,s*0.75),null,null)},
 $S:18}
 A.EX.prototype={
 bv(){this.ca()
@@ -73332,7 +73333,7 @@ p=p==null?r:p.dG(B.q,36)
 p=A.dL(A.d(o),r,r,r,p,r,r)
 o=s.y
 o=o==null?r:o.dG(B.um,16)
-return A.bV(A.b([p,B.LY,A.dL(q.d,r,r,r,o,r,r)],t.p),B.B,B.v,B.u)},
+return A.bV(A.b([p,B.LZ,A.dL(q.d,r,r,r,o,r,r)],t.p),B.B,B.v,B.u)},
 $S:42}
 A.F1.prototype={
 l(a){var s=this,r=s.bo$
@@ -78241,15 +78242,15 @@ B.LU=new A.ce(45,null,null,null)
 B.LV=new A.ce(80,null,null,null)
 B.LW=new A.ce(null,100,null,null)
 B.LX=new A.ce(null,10,null,null)
-B.LY=new A.ce(null,12,null,null)
-B.LZ=new A.ce(null,150,null,null)
-B.M_=new A.ce(null,20,null,null)
-B.M0=new A.ce(null,25,null,null)
+B.LY=new A.ce(null,120,null,null)
+B.LZ=new A.ce(null,12,null,null)
+B.M_=new A.ce(null,150,null,null)
+B.M0=new A.ce(null,20,null,null)
+B.M1=new A.ce(null,25,null,null)
 B.bi=new A.ce(null,30,null,null)
-B.M1=new A.ce(null,35,null,null)
+B.M2=new A.ce(null,35,null,null)
 B.dW=new A.ce(null,40,null,null)
 B.wd=new A.ce(null,50,null,null)
-B.M2=new A.ce(null,70,null,null)
 B.lu=new A.ce(null,80,null,null)
 B.M3=new A.ce(null,8,null,null)
 B.ch=new A.ce(null,null,null,null)
